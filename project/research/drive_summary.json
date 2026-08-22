@@ -1,0 +1,1267 @@
+{
+  "total_unique_files": 100000,
+  "pages_read": 100,
+  "mime_counts": {
+    "application/zip": 20,
+    "application/vnd.google-apps.document": 16,
+    "text/markdown": 2718,
+    "text/plain": 615,
+    "application/vnd.google-apps.folder": 14063,
+    "image/jpeg": 227,
+    "application/json": 3313,
+    "application/vnd.google-apps.shortcut": 143,
+    "application/pdf": 22,
+    "text/csv": 32,
+    "application/vnd.openxmlformats-officedocument.wordprocessingml.document": 22,
+    "text/html": 128,
+    "application/x-zip-compressed": 1,
+    "application/vnd.google-makersuite.prompt": 1,
+    "application/x-tar": 1,
+    "application/xml": 87,
+    "text/javascript": 33787,
+    "application/x-ms-shortcut": 110,
+    "application/octet-stream": 19218,
+    "application/x-shellscript": 369,
+    "application/x-perl": 23,
+    "application/x-python-code": 3756,
+    "text/x-python": 3744,
+    "application/x-msdownload": 19,
+    "application/x-msdos-program": 77,
+    "chemical/x-crossfire": 16,
+    "application/x-dosexec": 70,
+    "text/x-chdr": 259,
+    "text/tab-separated-values": 2,
+    "application/wasm": 36,
+    "application/x-font-ttf": 4,
+    "text/texmacs": 12940,
+    "video/vnd.dlna.mpeg-tts": 1063,
+    "text/css": 63,
+    "image/png": 145,
+    "video/mp2t": 1307,
+    "text/xml": 13,
+    "image/svg+xml": 22,
+    "image/x-icon": 10,
+    "application/x-gzip": 87,
+    "text/x-url": 1287,
+    "text/x-diff": 13,
+    "application/x-httpd-php": 2,
+    "text/x-c++src": 7,
+    "text/x-sh": 37,
+    "image/webp": 20,
+    "video/mp4": 75,
+    "audio/mpeg": 5,
+    "video/mpeg": 1,
+    "application/vnd.openxmlformats-officedocument.presentationml.presentation": 1,
+    "text/x-sql": 1,
+    "application/x-tex-tfm": 2
+  },
+  "relevant_count": 201,
+  "relevant": [
+    {
+      "id": "1pe03eQIknNcLt4YDDNcoS38qscdx0rE7",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "01_PRIVADO_BELENTANI"
+    },
+    {
+      "id": "1Wx34BxF1G9Xt1hBxJI3tFVn8XGJlOUQP",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "02-AUDIOS-JUDAS-PRIVADO.lnk"
+    },
+    {
+      "id": "1_9HScb-F9dOeNiv5rwJbQfcaKNwwTAOr",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "02-AUDIOS-JUDAS-PRIVADO.lnk"
+    },
+    {
+      "id": "1RFL9HLKkFaJN9XXv5t_UZOmqRN3gsmpR",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "02-AUDIOS-JUDAS-PRIVADO.lnk"
+    },
+    {
+      "id": "1r_3EClbFxcUwbVWaraKxieFhKCu59AJ_",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "02-JUDAS-EXPERIENCE-DOWNLOADS.lnk"
+    },
+    {
+      "id": "1FIMe0iqbOV71onJoPBXUN9qPbDmpPO4t",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "02-JUDAS-EXPERIENCE-DOWNLOADS.lnk"
+    },
+    {
+      "id": "1kPAyO4DtFHAMi-iRPZ9dZKOHUmVDSXBQ",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "02-JUDAS-EXPERIENCE-DOWNLOADS.lnk"
+    },
+    {
+      "id": "15RvVP9i_P4C2oqaqj8XMf0caOlxJbXnV",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "03-BELENTANI-OMEGA.lnk"
+    },
+    {
+      "id": "1LkpIsmRrIJwXbFODPHHLZrRJuFwy_N81",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "03-BELENTANI-OMEGA.lnk"
+    },
+    {
+      "id": "1_m1tWZuuVOEyyOxFBCfmrkigREz2iRf4",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "03-BELENTANI-OMEGA.lnk"
+    },
+    {
+      "id": "1LEw16cT1mRZg6mRs6Ol-Rwi4Mn4XcTUE",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "03_BELENTANI"
+    },
+    {
+      "id": "1hHfQiboGtWjz7MtXbXqyoarj4GCFKVes",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "04-CORPUS-BELENTANI.lnk"
+    },
+    {
+      "id": "1_T7ScfnAlMoH8bSNkyzl_E6UIFPeHRer",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "04-CORPUS-BELENTANI.lnk"
+    },
+    {
+      "id": "1u6TgGtTS6gKdz05J1FFdV8X-2w1BJ8bn",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "04-CORPUS-BELENTANI.lnk"
+    },
+    {
+      "id": "1oKlLrD7toDRG4jJ6-8uxq10V30ZAvfVI",
+      "kind": "drive#file",
+      "mimeType": "text/markdown",
+      "name": "ADAPTACION-ANTIDIARY-A-VIDEOCLIP-BELENTANI.md"
+    },
+    {
+      "id": "1zVGjv-8Yx4HrEgcGG_9QfdVfXS9zEYaS",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.docx [28DC7634].url"
+    },
+    {
+      "id": "1DQ9NAkLm1Bq-nMILEWZ1-kbDFXu-eyQV",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.docx [28DC7634].url"
+    },
+    {
+      "id": "1vL8lgMCRx1B8fbmDwbbMGjG72h4lhMJD",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.docx [28DC7634].url"
+    },
+    {
+      "id": "1J62XYjdkl7ouCJnaKxnbJJ0pE_QuKd0J",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.html [B662C836].url"
+    },
+    {
+      "id": "1VbciBy1vvp9Y9quPL1PjJ0DocpJvz4Ce",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.html [B662C836].url"
+    },
+    {
+      "id": "19eUgAqu0vENuvxJbLiXBrH01EJFosH70",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.html [B662C836].url"
+    },
+    {
+      "id": "16vVKKeniEV_WR35v9xQAqoyZu4I0oNJM",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.md [12A299C2].url"
+    },
+    {
+      "id": "16jC7IzIQ_O81oi4N62JZNoQbnWf6nDIL",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.md [12A299C2].url"
+    },
+    {
+      "id": "1FdDaViecFL9c46Beyghh0ZhrUcdgmWHE",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.md [12A299C2].url"
+    },
+    {
+      "id": "1HVrg4p85fD-6ipZAYAK3lJpWDTA34A8n",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.pdf [43796E4E].url"
+    },
+    {
+      "id": "1zz_9d5zQmM0VPeQb8bJwQfUtx55V8Np2",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.pdf [43796E4E].url"
+    },
+    {
+      "id": "1FfDxhAuf62Y8w4qwJ5OyKHuPrpRR30mj",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "ARTICULO-BELENTANI-EVIDENCIA-COMPARACION-Y-PATRONES.pdf [43796E4E].url"
+    },
+    {
+      "id": "1XMk-hiFYVtaAWYdtWn2sHilFneE7t0mw",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI"
+    },
+    {
+      "id": "1kN32VRZnpctlIr9TijZNDxLKQL2lHkL0",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "Belentani"
+    },
+    {
+      "id": "19CCVdkyW3tVDHhblvbsEqLgx0Jxp3AYv",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "Belentani"
+    },
+    {
+      "id": "1qN7YQ7lcC1YychGT7CTYqq30vOlncvTP",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-20-WORLDS"
+    },
+    {
+      "id": "1huKDqUPkjdamge0YUZVHyDSSHFBd8LFJ",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BELENTANI-20-WORLDS [3DF65980].lnk"
+    },
+    {
+      "id": "1HrKYtxqVHSspoU29rqcpF3L4xXH0CUBe",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BELENTANI-20-WORLDS [3DF65980].lnk"
+    },
+    {
+      "id": "15aBb2gl3gjFYWiTnyHknNu2QL1pu8fXh",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BELENTANI-20-WORLDS [3DF65980].lnk"
+    },
+    {
+      "id": "1nHzZF9hZcGxlapsDJa-fPT0MX1dwOON0",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-ANALISIS-Y-CV-MAESTRO-2026-08-08"
+    },
+    {
+      "id": "1u4C19qaYf5QKRhacMAHnaUWWrk6c_D7C",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BELENTANI-ANALISIS-Y-CV-MAESTRO-2026-08-08 [0C740DF4].lnk"
+    },
+    {
+      "id": "11pCwAF8moJVVWWcARyBd_6BHs-8-UmS5",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BELENTANI-ANALISIS-Y-CV-MAESTRO-2026-08-08 [0C740DF4].lnk"
+    },
+    {
+      "id": "18NL-85fbI4F76l5nXkWEQfCrsYiNB3Bx",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BELENTANI-ANALISIS-Y-CV-MAESTRO-2026-08-08 [0C740DF4].lnk"
+    },
+    {
+      "id": "1lJ1p-oQZVS4PEg7afz6pIiWIGluGHmTJ",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-BUILDAI-HTML-Y-FOTOS"
+    },
+    {
+      "id": "1IWjN5kIfBxq-9Wi14ji3ByFeqif6OtxB",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-BUILDAI-HTML-Y-FOTOS"
+    },
+    {
+      "id": "1FsjMWRPBx9YQIyAYyKGXMLrMnGfpkXHM",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-BUILDAI-HTML-Y-FOTOS"
+    },
+    {
+      "id": "106iRMX-mJmSAnt-nziMjnACsFzwbnfMP",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-CENTRO-MANUS-AI"
+    },
+    {
+      "id": "1jb3i77rV6V4t98dV4V7ItCGyIjCcwTMF",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-CENTRO-MANUS-AI"
+    },
+    {
+      "id": "1Bx5PHFG4biBPyU1zdjwmzIo8etJrxDeB",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-CENTRO-MANUS-AI"
+    },
+    {
+      "id": "1PbQP5QFlTSGffhAyCOlnNiFK12fjOnHU",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "BELENTANI-CENTRO-MANUS-AI (2).zip"
+    },
+    {
+      "id": "19rOGJqo7dmUAQlsuYBJaQRUMqGBUqc0o",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "BELENTANI-CENTRO-MANUS-AI (2).zip"
+    },
+    {
+      "id": "1xRGaLIaHMiuW1u3dv7YyK0_4chUw-Aoy",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "BELENTANI-CENTRO-MANUS-AI (2).zip"
+    },
+    {
+      "id": "1w_jvnpcBmpKgNDyCTYCc6nlTMDlKGDZz",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "BELENTANI-CENTRO-MANUS-AI.zip"
+    },
+    {
+      "id": "1HrTztd2L1H2bDRnsxdNAolk9eG60u_xE",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "BELENTANI-CENTRO-MANUS-AI.zip"
+    },
+    {
+      "id": "16vM4m6Uq9hm_xi2zAHdP2Q6OpsoipdPP",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "BELENTANI-CENTRO-MANUS-AI.zip"
+    },
+    {
+      "id": "1azJtbglmXvCLbpC4PUHTGpLgv_W1ma_1",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani-current.json"
+    },
+    {
+      "id": "1zasHRcjkuo6znTn9kyG_vmlP10tIXhqt",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani-current.json"
+    },
+    {
+      "id": "1i6WlqAiyE1R8ubi4QqZuAH87FaF7JHby",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani-current.json"
+    },
+    {
+      "id": "1o2OdFlw3c3HTOy3gsZLhqkfrcfEJ8q2_",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-EXPERIMENTOS"
+    },
+    {
+      "id": "1nIIt5DDwcmANb5giNRWPiHaQyjXaSQJ4",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-EXPERIMENTOS"
+    },
+    {
+      "id": "1Ly3litJ2ZLCl2u-0WrTzcVJ5DvJ-sOiO",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-EXPERIMENTOS"
+    },
+    {
+      "id": "18w0gkMUxrgEy1YiMbim_1sfmJyaGQyNJ",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-FULLSTACK-2026-08-08"
+    },
+    {
+      "id": "1SNWS10sTy7GazZ9wuoktjvgo4UhXUUf9",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani-history.json"
+    },
+    {
+      "id": "1xOC1uT7ClFCEWx_Hx4VwQL4iVKggKI89",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani-history.json"
+    },
+    {
+      "id": "1AT1e4HMhIHdShujD78rODt9YKXL24MyB",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani-history.json"
+    },
+    {
+      "id": "149x_AtFbLFZGu-ah1FPRsgKxG9AgMaPG",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-JUDAS-ERA-FULLSTACK"
+    },
+    {
+      "id": "1Ctmjl24t6vnZPKAXEEjMPiIWvtc82q9S",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-JUDAS-ERA-FULLSTACK"
+    },
+    {
+      "id": "1leffBIaS9TbhUPOjA8xMKEOjlTvTY36u",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-JUDAS-ERA-FULLSTACK"
+    },
+    {
+      "id": "1dMcpAKyEVO_Nigk6HbSg-h7AbaL6EYpm",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-JUDAS-ERA-FULLSTACK"
+    },
+    {
+      "id": "1vHI3UhCm1r6rcLSHzVKuACaWBTEvfN36",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BELENTANI-JUDAS-ERA-FULLSTACK [70467C9A].lnk"
+    },
+    {
+      "id": "1nmam7ByiYt84OOu7jPmfIHm1Sfd90G_V",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BELENTANI-JUDAS-ERA-FULLSTACK [70467C9A].lnk"
+    },
+    {
+      "id": "1eT9rBn0o9Nu4HhFma4sBHROo44n2nYG7",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BELENTANI-JUDAS-ERA-FULLSTACK [70467C9A].lnk"
+    },
+    {
+      "id": "1QY8sHqskd4QJFd8Gm_sXaIEZLSEOkpYx",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BELENTANI-JUDAS-EXPERIENCE"
+    },
+    {
+      "id": "1-aaKPV7Mve4rLnYa-yRTCoA9Gb4TXABB",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_OMEGA_CINEMA_v3.html [4E8D0B72].url"
+    },
+    {
+      "id": "1PKZV3-ii4vxiuAuiFX35WHZWe6fP5gTK",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_OMEGA_CINEMA_v3.html [4E8D0B72].url"
+    },
+    {
+      "id": "1_tLiNdLFcjAiE5MGxcLfq0292C91OIQI",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_OMEGA_CINEMA_v3.html [4E8D0B72].url"
+    },
+    {
+      "id": "1Iy8yTvKes7E7mvU-PQAjvd2Qa_QjFsn9",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_OMEGA_FINAL_UNIFIED_v3.html [BFD9B4C3].url"
+    },
+    {
+      "id": "1zGrCSf6gr58nR808PYopHqlf2l6Wmc3-",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_OMEGA_FINAL_UNIFIED_v3.html [BFD9B4C3].url"
+    },
+    {
+      "id": "1wqlMmbc4OwGL5qb_XwTZoz13cLW-j6rF",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_OMEGA_FINAL_UNIFIED_v3.html [BFD9B4C3].url"
+    },
+    {
+      "id": "1YcH8jZgKNTX2JFqM_9g4BISwSAOAVbwY",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_OMEGA_MEGA_FINAL.html [F572F65A].url"
+    },
+    {
+      "id": "16Et28ShclQKyNkXMs3FM7yOdv3sy1pgH",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_OMEGA_MEGA_FINAL.html [F572F65A].url"
+    },
+    {
+      "id": "1BQCoLxZV5SrZqt93XAHcs7PQf4Bh7W9I",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_OMEGA_MEGA_FINAL.html [F572F65A].url"
+    },
+    {
+      "id": "1kQK_W7U3DpwzI7WfQHR4vSdXxF6NiGcv",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_ULTIMATE.html [7029CAD7].url"
+    },
+    {
+      "id": "1xy1QXt3exdUL10l6_jbM8vU4qYsD4mu-",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_ULTIMATE.html [7029CAD7].url"
+    },
+    {
+      "id": "17VdkMpEPHw8xjLDZu_kLsmLpes2KUNA9",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_ULTIMATE.html [7029CAD7].url"
+    },
+    {
+      "id": "1DUFQK_36INYLuN1MKzs4psrgFxffRql5",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_ULTRA_CINEMA.html [96ADCEE3].url"
+    },
+    {
+      "id": "1m0FiKtFNc7_czXmiiEUpjn7P7zY697Dk",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_ULTRA_CINEMA.html [96ADCEE3].url"
+    },
+    {
+      "id": "1SjMfhakZ6Ot8pKP4N5dVRwg7VKKWOynd",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - BELENTANI_ULTRA_CINEMA.html [96ADCEE3].url"
+    },
+    {
+      "id": "17MzaXmynyW14NhfVi-K-oRr4npGTcltd",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - MODULE_02_PORTAL_SECTION.html [68E216FC].url"
+    },
+    {
+      "id": "12Ocr-0r3bE3jh21DhJZbu-aksuKK4CV5",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - MODULE_02_PORTAL_SECTION.html [68E216FC].url"
+    },
+    {
+      "id": "1bFHhxwI1hJJg2BQ5opADyW-Xz8fwPG45",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - MODULE_02_PORTAL_SECTION.html [68E216FC].url"
+    },
+    {
+      "id": "1D9nlDlOCY3eUVAu3E58UZJHvr3c1u6Kz",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - MODULE_02_PORTAL_SECTION.original-20260808.html [9AFD3A9F].url"
+    },
+    {
+      "id": "1W7Bx94HTkifKnBkqlU00BMYg5U_Nkcb9",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - MODULE_02_PORTAL_SECTION.original-20260808.html [9AFD3A9F].url"
+    },
+    {
+      "id": "1fKi_N8d0-Ord1WABHDvoJ1uBo6jYkYrE",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "belentani-omega-os-codex-07-31 - outputs - MODULE_02_PORTAL_SECTION.original-20260808.html [9AFD3A9F].url"
+    },
+    {
+      "id": "1g9VGWCHLgMIieVL5vPAyhistQjHqrbfX",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "Belentani.cv-ai"
+    },
+    {
+      "id": "1iCrQT6HRgNav3yszB6TnRnFbeplfRFer",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "Belentani.cv-ai"
+    },
+    {
+      "id": "1gFLikqN9i-HHSWvaM2oBy1cqUSKLTEw9",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani.cv-ai-current.json"
+    },
+    {
+      "id": "1MjOu3o6Pt2BHqbISRRsPOyn-Etl7nCfD",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani.cv-ai-current.json"
+    },
+    {
+      "id": "17KEIDvN_sppLSaxneXVHwiJvUWbaw40F",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani.cv-ai-current.json"
+    },
+    {
+      "id": "1Wv9Ny8HUSIczaz0nWE3XpmT6GVkJxD6Y",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani.cv-ai-history.json"
+    },
+    {
+      "id": "1AEn4WAAkwwmsyR0rlYrvdro3JR9k1wuv",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani.cv-ai-history.json"
+    },
+    {
+      "id": "1opVnZY4AOhqaSFG1r38jExeXAVtorJTH",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "Belentani.cv-ai-history.json"
+    },
+    {
+      "id": "1dUmOjt1Tsjt-ORWE5f0onnyxN0pAGWCv",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "belentani7"
+    },
+    {
+      "id": "1Ecw4Gpx5BUCWNLt7Wd2c1CqDMU1LxMiw",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "belentani7"
+    },
+    {
+      "id": "1ed4ekMazG5W6bIx6MR-hVtZfkZmI-TGa",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "belentani7"
+    },
+    {
+      "id": "11fMRagseXVqog4Y6gwngfjjyRfUhGudd",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "belentani7"
+    },
+    {
+      "id": "13_3RXWbuCml3iJykz2O1LtHELf_1QE--",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "Belentani_Creations"
+    },
+    {
+      "id": "1JJCr5yD9gKCchvp_F_cgfA38tKIbtrd-",
+      "kind": "drive#file",
+      "mimeType": "application/pdf",
+      "name": "BELENTANI_JUDAS_OMEGA_PROMPT_CINEMATOGRAFICO.pdf"
+    },
+    {
+      "id": "14avNcn0aCsAySrKOZqitUyZzq330jTa6",
+      "kind": "drive#file",
+      "mimeType": "application/pdf",
+      "name": "BELENTANI_JUDAS_OMEGA_PROMPT_CINEMATOGRAFICO.pdf"
+    },
+    {
+      "id": "1WcVLQokK9nheWFJRds0g5qpfwgKZTe9u",
+      "kind": "drive#file",
+      "mimeType": "application/pdf",
+      "name": "BELENTANI_JUDAS_OMEGA_PROMPT_CINEMATOGRAFICO.pdf"
+    },
+    {
+      "id": "12AofDbqTjsQgbOl8RrS5AI00sTDDmfno",
+      "kind": "drive#file",
+      "mimeType": "text/plain",
+      "name": "BELENTANI_JUDAS_OMEGA_PROMPT_CINEMATOGRAFICO.txt"
+    },
+    {
+      "id": "1-MV1cRCwfKnDzmHoJv4N1kiFp7npzV6P",
+      "kind": "drive#file",
+      "mimeType": "text/plain",
+      "name": "BELENTANI_JUDAS_OMEGA_PROMPT_CINEMATOGRAFICO.txt"
+    },
+    {
+      "id": "16lpf2VMjHFK6aJYxcpZPe43hWxDlZhDC",
+      "kind": "drive#file",
+      "mimeType": "text/plain",
+      "name": "BELENTANI_JUDAS_OMEGA_PROMPT_CINEMATOGRAFICO.txt"
+    },
+    {
+      "id": "1WX7PuE1q2fJDxdl_LDiv9qahB3eGihGL",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "belentani_Omega"
+    },
+    {
+      "id": "158YnuGqjwD8m7bWWLDz-qPXdsnjGIdM-",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "belentani_Omega"
+    },
+    {
+      "id": "1sZaIMR5--mA4w4aE57TQ1w9p4Gdlo5vz",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "belentani_Omega-current.json"
+    },
+    {
+      "id": "1aA1XgbxbXf9QJSyzSG1h9z4FZax5m4AT",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "belentani_Omega-current.json"
+    },
+    {
+      "id": "1z71a0Ys636QT-fC5_pNSB_DxIBBfT9Uw",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "belentani_Omega-current.json"
+    },
+    {
+      "id": "1myXm3LTVb-C5dvslaZQNNO4y6OZS05MU",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "belentani_Omega-history.json"
+    },
+    {
+      "id": "1vp5YewgMLXDOL3YyIi0LbStupJNxFLtE",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "belentani_Omega-history.json"
+    },
+    {
+      "id": "1UPp6fdEIMjb4ybJMtVQOOpd6ErktEEQc",
+      "kind": "drive#file",
+      "mimeType": "application/json",
+      "name": "belentani_Omega-history.json"
+    },
+    {
+      "id": "1RQvspv7kM8WHF6tuyO2hQP089OwISoJp",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BIBLIOTECA-BELENTANI-2026"
+    },
+    {
+      "id": "1PyaH4FAcK8o1aIJs5ZMTdpv7soVNPOXL",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BIBLIOTECA-BELENTANI-2026"
+    },
+    {
+      "id": "1lsYozjH0HDRQpc_q8UJ6Yz1Z_XKAZ4BH",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BIBLIOTECA-BELENTANI-2026"
+    },
+    {
+      "id": "1ZcPy2RERu0ViwzcXJR3zoVdLZI-I3_ec",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "BIBLIOTECA-BELENTANI-2026"
+    },
+    {
+      "id": "16nWW2AI8xl18LGsvd6dr7qNHjkRHNK3_",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BIBLIOTECA-BELENTANI-2026 [DA1865F1].lnk"
+    },
+    {
+      "id": "19fInMXTsVrpB5p6DkZwX-XB9sVb28CBj",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BIBLIOTECA-BELENTANI-2026 [DA1865F1].lnk"
+    },
+    {
+      "id": "1HthlF5EnTW7aGsM5tJnyLBCQmTYrdzRl",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "BIBLIOTECA-BELENTANI-2026 [DA1865F1].lnk"
+    },
+    {
+      "id": "1HSFxFuHksvOZiOBC27D_nKOUcJ_I7OQ4",
+      "kind": "drive#file",
+      "mimeType": "text/markdown",
+      "name": "BLUEPRINT-MAESTRO-BELENTANI-JUDAS.md"
+    },
+    {
+      "id": "1wg0O3WR-YJTxTwf6d1_oeURslmvyQbu8",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "CODICE-OMEGA"
+    },
+    {
+      "id": "1TA_p_bH5XjWclrmrWVg_MnvJviqkUxC2",
+      "kind": "drive#file",
+      "mimeType": "text/plain",
+      "name": "conteudo_completo_neutral.txt"
+    },
+    {
+      "id": "1yQF9P2Ksax6oLZRYTgMzEAUbpMn3FuDZ",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MAESTRO-PEDRO-BELENTANI-2026.docx [4D9C7C06].url"
+    },
+    {
+      "id": "1hfl9gosNXn8uGyr3kBLnZW9N_XISF6ys",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MAESTRO-PEDRO-BELENTANI-2026.docx [4D9C7C06].url"
+    },
+    {
+      "id": "1CFDMynBD10FIfizDiKmgZMSWqJDLnRzM",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MAESTRO-PEDRO-BELENTANI-2026.docx [4D9C7C06].url"
+    },
+    {
+      "id": "1ZelHIQ8e45R1w7Wda0A0SSQ3cMhLRTu_",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MAESTRO-PEDRO-BELENTANI-2026.md [3A8D7000].url"
+    },
+    {
+      "id": "1JO235rOiPOUEhj_wu86Or98xi-YQDHfr",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MAESTRO-PEDRO-BELENTANI-2026.md [3A8D7000].url"
+    },
+    {
+      "id": "1lcijyMfrplIQmXm2NKyVX7-6yTjdfrKq",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MAESTRO-PEDRO-BELENTANI-2026.md [3A8D7000].url"
+    },
+    {
+      "id": "1OeWfZmAxgTWgVN9HKwxYQW9S8WEdS4db",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MAESTRO-PEDRO-BELENTANI-2026.pdf [07C459A5].url"
+    },
+    {
+      "id": "1BGUCqShkNys8dyaaSeMdC0Zwe6kwNGpE",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MAESTRO-PEDRO-BELENTANI-2026.pdf [07C459A5].url"
+    },
+    {
+      "id": "10FibcmRd1-GcubZV0wCLcWjRUgnaIlZo",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MAESTRO-PEDRO-BELENTANI-2026.pdf [07C459A5].url"
+    },
+    {
+      "id": "1Eqs8uDeJzAOGG3uRfBB5Xw9CjTtwVq8g",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.docx [B494D476].url"
+    },
+    {
+      "id": "1WqK_nwHRTQoXaGTAHTDOx6INazGWQ7SI",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.docx [B494D476].url"
+    },
+    {
+      "id": "1ExILNkwBKSWjqT-RAMU_vpnBmNbzRCoZ",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.docx [B494D476].url"
+    },
+    {
+      "id": "1nIlUYb7dIY3VUe9CAc84tP8jfGwHFK7o",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.html [53A25D72].url"
+    },
+    {
+      "id": "1WeCPA9oAbXL1xz-wtPiQofeeLxIlc_C9",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.html [53A25D72].url"
+    },
+    {
+      "id": "1XCRQ3YeSUSJMpB3oA2-7daSxkTeKtSl_",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.html [53A25D72].url"
+    },
+    {
+      "id": "1i8vbTiHUZyEc1wAp1UsTtxQyhpRIAMPh",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.md [F8094E74].url"
+    },
+    {
+      "id": "1FTdx54MEIqDIpUGpfDaa2RVGOKqj9Qxn",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.md [F8094E74].url"
+    },
+    {
+      "id": "17chm9lqZKXVu4T20WVLrsH-bFTQVjaIg",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.md [F8094E74].url"
+    },
+    {
+      "id": "1-UQvvPd5HI9Iqlwd2Q81EYW_sTGXhH0I",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.pdf [BD6DF1DB].url"
+    },
+    {
+      "id": "1X6ibGyf_v2o8VBPUzJ6OHJrMKUI_FBMu",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.pdf [BD6DF1DB].url"
+    },
+    {
+      "id": "1IwpEVPaCdWhd9by6GnGRVMa1NIX9XKD1",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-MANUSCRITO-MAESTRO-PEDRO-BELENTANI-2026.pdf [BD6DF1DB].url"
+    },
+    {
+      "id": "1CX4-FpucKuQzi65bJB8_Zq40zvgyqRMx",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.docx [224985D9].url"
+    },
+    {
+      "id": "12qUk_XNHfEcLzbI_RDkt18tYlZziqaEE",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.docx [224985D9].url"
+    },
+    {
+      "id": "1fCDkjEOmzNx-_xQAassxIMHwegEAkJFg",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.docx [224985D9].url"
+    },
+    {
+      "id": "1CaKn7lZRZs-kWb4WV_KTpm7drl8m54Rp",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.html [3C66DC1F].url"
+    },
+    {
+      "id": "1ZJoyKJ8ZRtM-ePSkEaDLoHfkZIIA0d12",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.html [3C66DC1F].url"
+    },
+    {
+      "id": "1TFKq1Zrid-k_UAmNttMIJksyrZ543LyR",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.html [3C66DC1F].url"
+    },
+    {
+      "id": "1ASuCpjBX2_7G3ZXwPoUk0PNtI4B5eOBX",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.md [A5115B23].url"
+    },
+    {
+      "id": "1FJZAOVPQNSINgI-h48KvGuVxuv3T-ro8",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.md [A5115B23].url"
+    },
+    {
+      "id": "14fY6lCt4giFVFmVxkXuf6iLMyA-cyaka",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.md [A5115B23].url"
+    },
+    {
+      "id": "14xEude5DUsPZtBVJlDORJpdSwH-tKmoy",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.pdf [04BCD79C].url"
+    },
+    {
+      "id": "1u_yFf5391A-XF27Ip2dQ-KPC_pbJYt4l",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.pdf [04BCD79C].url"
+    },
+    {
+      "id": "10_s3N4bXJC8YkueewzVH42AAKNFc7xrd",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "CV-PEDRO-BELENTANI-FRONTEND-2026.pdf [04BCD79C].url"
+    },
+    {
+      "id": "1IIwrReiZnfr-5bQTShZEP6fcuT_AbKLM",
+      "kind": "drive#file",
+      "mimeType": "text/markdown",
+      "name": "ELEMENTOS.md"
+    },
+    {
+      "id": "1DMA004Q5HmG5f3jb8C05WoIpr2UkzHAJ",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "Expediente_Reclamacion_DKV_Pedro_Belentani.zip"
+    },
+    {
+      "id": "1aj41Ve6Ar3N5vbalPQOqmBMqQLCYfXo9",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "Expediente_Reclamacion_DKV_Pedro_Belentani_FINAL.zip"
+    },
+    {
+      "id": "1QAkuxpSCglG_isgwoRxpXLflKVU_3Lwq",
+      "kind": "drive#file",
+      "mimeType": "text/javascript",
+      "name": "face-neutral.mjs"
+    },
+    {
+      "id": "1T16VmHgbNEHtJ4muGlt58yt2jW6dwccz",
+      "kind": "drive#file",
+      "mimeType": "application/octet-stream",
+      "name": "face-neutral.mjs.map"
+    },
+    {
+      "id": "1Ou4F19B7mVyARfmLsMXERMaUkaJfyBbq29hqwqzUVic",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.document",
+      "name": "INFORME DE AUDITORÍA SUPREMA - BELENTANI OMNI"
+    },
+    {
+      "id": "1ubs7czHl2JiplncvCG536H2ViyuzWzfF",
+      "kind": "drive#file",
+      "mimeType": "video/mp4",
+      "name": "judas-hero.mp4"
+    },
+    {
+      "id": "190uWxaEZssyKZBWIgrjb2mQV8nGk7bSm",
+      "kind": "drive#file",
+      "mimeType": "image/webp",
+      "name": "judas-poster.webp"
+    },
+    {
+      "id": "1U99HY7z9jaz2rkH6Y-DRteYo_zKoZS5o",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "LA-CASA-ENTERA-LIBRO-BELENTANI-2026"
+    },
+    {
+      "id": "1zrWc3Ld6UBotVK9__yX24jFvH43iNByj",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "LA-CASA-ENTERA-LIBRO-BELENTANI-2026 [62B62E69].lnk"
+    },
+    {
+      "id": "1qQsLHEaHbpX0E-BJUbKlBKw5eku4kqk0",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "LA-CASA-ENTERA-LIBRO-BELENTANI-2026 [62B62E69].lnk"
+    },
+    {
+      "id": "1zbBWAm0Q637C_x8KzbUZYLQ__zrUvjT1",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "LA-CASA-ENTERA-LIBRO-BELENTANI-2026 [62B62E69].lnk"
+    },
+    {
+      "id": "1lNMRQFFr2UZEUMsQ8BSnPl9AjoTuAEYy",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "Manus Data Recovery - Belentani - task - 2026-08-16_01-04-43"
+    },
+    {
+      "id": "16xNVjdfQyogdCyJfLFxT1eam7HtwcNvO",
+      "kind": "drive#file",
+      "mimeType": "text/css",
+      "name": "omega-next.css"
+    },
+    {
+      "id": "16Nfp_vJ6RfUYjcrMfA-sStNovJJH-T8Y",
+      "kind": "drive#file",
+      "mimeType": "text/javascript",
+      "name": "omega-next.js"
+    },
+    {
+      "id": "1IUdLx2CbMLxe-DDGbRsufPtQapzqqqlu",
+      "kind": "drive#file",
+      "mimeType": "text/javascript",
+      "name": "omega.js"
+    },
+    {
+      "id": "1_HIJ5z4Ec24FWvafJmsPM9B_jeSaj76X",
+      "kind": "drive#file",
+      "mimeType": "application/octet-stream",
+      "name": "omega.js.map"
+    },
+    {
+      "id": "1XUbygCgMw4Dj4ohbxscp9E1VNkeRKkzP",
+      "kind": "drive#file",
+      "mimeType": "text/javascript",
+      "name": "omega.mjs"
+    },
+    {
+      "id": "1vqE44d9LfU68gQj0DYUYhq9bZdVARGJx",
+      "kind": "drive#file",
+      "mimeType": "application/octet-stream",
+      "name": "omega.mjs.map"
+    },
+    {
+      "id": "1WHnoesXKEzOIQkU_DZHMpmNHAGj8bwDV",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "PEDRO-BELENTANI-BLOG-NEURAL"
+    },
+    {
+      "id": "1jhKOeydPsorxUMHuxLYJ9R5ypgPXD3sF",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "PEDRO-BELENTANI-BLOG-NEURAL"
+    },
+    {
+      "id": "1iVdL3DsJYWidczJXvqaM1btOgPqnm-I6",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "PEDRO-BELENTANI-BLOG-NEURAL"
+    },
+    {
+      "id": "1pcaqlvZ0VdrLaKysy0NdUx_hOi6OAVmD",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "PEDRO-BELENTANI-BLOG-NEURAL"
+    },
+    {
+      "id": "1OustwHvX_bFNtaEoRS9C08zhz5BJ0t1N",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "PEDRO-BELENTANI-BLOG-NEURAL [78125020].lnk"
+    },
+    {
+      "id": "19ZmTAu_RFBaIAP6MhiuCkgfA805ICL-G",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "PEDRO-BELENTANI-BLOG-NEURAL [78125020].lnk"
+    },
+    {
+      "id": "1HjbdAvK9xZPC6gXEHrxGiWwUsr_xD9z1",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "PEDRO-BELENTANI-BLOG-NEURAL [78125020].lnk"
+    },
+    {
+      "id": "1YSAWUoRZPwVVBQnFC0AX_eU6Mo2y81T2",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "PEDRO-BELENTANI-BLOG-NEURAL-RELEASE-20260812"
+    },
+    {
+      "id": "1OU09qJUIlqN1Hwiq2pcX_z2z5fLXOmnI",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "PEDRO-BELENTANI-BLOG-NEURAL-RELEASE-20260812"
+    },
+    {
+      "id": "16U8rTInh-UrL5X8YOzSS8hT41N53X60N",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.folder",
+      "name": "PEDRO-BELENTANI-PREMIUM-PORTFOLIO-2026"
+    },
+    {
+      "id": "1Kz3W_7iO8I4pfOAfsPfnFRbchq9HJGRH",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "PEDRO-BELENTANI-PREMIUM-PORTFOLIO-2026 [389F6DB7].lnk"
+    },
+    {
+      "id": "1jLTkecxW4ACOywJxk8lx7S1zAnkpzLvG",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "PEDRO-BELENTANI-PREMIUM-PORTFOLIO-2026 [389F6DB7].lnk"
+    },
+    {
+      "id": "1NobtbryG9poYx-rrQ4OPrLNw1Zfdqm2-",
+      "kind": "drive#file",
+      "mimeType": "application/x-ms-shortcut",
+      "name": "PEDRO-BELENTANI-PREMIUM-PORTFOLIO-2026 [389F6DB7].lnk"
+    },
+    {
+      "id": "1KHkjCO9V-uXdHwQLZR7ZCfw4EdlFWNNi",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "PORTFOLIO-PREMIUM-PEDRO-BELENTANI-2026.pdf [253B905F].url"
+    },
+    {
+      "id": "12TX3S-c21aX_yTmR516GOww9f9KcIYHD",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "PORTFOLIO-PREMIUM-PEDRO-BELENTANI-2026.pdf [253B905F].url"
+    },
+    {
+      "id": "1JwhboAdiDpIENWwtt-PRTyTK8qdURcAR",
+      "kind": "drive#file",
+      "mimeType": "text/x-url",
+      "name": "PORTFOLIO-PREMIUM-PEDRO-BELENTANI-2026.pdf [253B905F].url"
+    },
+    {
+      "id": "17a2p_EGgINRPrW9YhUcTwsoA4CpVZZ_i",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.shortcut",
+      "name": "SRC__EXTRACCION_CAPACIDADES_PROFESIONALES_PEDRO_BELENTANI"
+    },
+    {
+      "id": "1xqEcoi8-eZRBeNmCyoEKuj4_O3Autlaj",
+      "kind": "drive#file",
+      "mimeType": "application/vnd.google-apps.shortcut",
+      "name": "SRC__PEDRO-BELENTANI-CONSOLIDADO-2026.md"
+    },
+    {
+      "id": "1F1KT4jPbJ9dE-AsZn4xYH_vENcHgWW-i",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "tasks-data-belentani-08-16_01-04-43-main_part_001_of_001.manustask"
+    },
+    {
+      "id": "1OuX-wA_6Hf8Ph_ypiaq0qP8OCfCOpXIt",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "tasks-data-belentani-08-16_01-04-43-part_001_of_003.manustask"
+    },
+    {
+      "id": "1O5nd7zH3vrTwlQFDlrcwXxFEHfRGcKk2",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "tasks-data-belentani-08-16_01-04-43-part_002_of_003.manustask"
+    },
+    {
+      "id": "1iaw0yaQrk2SYgcMNs_G635gazQnFtbof",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "tasks-data-belentani-08-16_01-04-43-part_003_of_003.manustask"
+    },
+    {
+      "id": "10L8ofsODt8Oqal1PoLM9s3IT6TirAAzg",
+      "kind": "drive#file",
+      "mimeType": "application/zip",
+      "name": "tasks-data-belentani-08-16_01-04-43.manustask"
+    }
+  ]
+}
